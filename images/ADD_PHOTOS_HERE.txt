@@ -1,0 +1,3 @@
+Your uploaded photos are included unchanged as photo1.png through photo12.png.
+The last two uploaded photos (photo11.png and photo12.png) appear on the welcome page.
+The first ten photos appear in the Our Memories gallery.
